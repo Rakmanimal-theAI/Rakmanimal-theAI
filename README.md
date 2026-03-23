@@ -1,5 +1,8 @@
 ## Kia Ora / Hello / Salut 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-080c10?style=for-the-badge&logo=githubpages&logoColor=2f80ed)](https://Rakmanimal-theAI.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-mir12/)
+[![Email](https://img.shields.io/badge/Email-2f80ed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmir20@gmail.com)
 
 ## 🔭 I’m currently working on
 ## 🌱 I’m currently learning
