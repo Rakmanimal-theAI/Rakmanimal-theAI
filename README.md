@@ -4,6 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-mir12/)
 [![Email](https://img.shields.io/badge/Email-2f80ed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmir20@gmail.com)
 
+## 👨🏻‍💻 About me
+
+I'm from France 🇫🇷, living in Auckland 🇳🇿. I really like Machine Learning and am getting more and more interested in AI ✨. I am also passionated by solo piano classical music 🎹, sports (squash ⚫️💨, running 🏃‍♂️ & gym 🏋️‍♂️) and cooking 👨‍🍳.
+
 ## 🔭 I’m currently working on
 ## 🌱 I’m currently learning
 
