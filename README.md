@@ -6,10 +6,16 @@
 
 ## 👨🏻‍💻 About me
 
-I'm from France 🇫🇷, living in Auckland 🇳🇿. I really like Machine Learning and am getting more and more interested in AI ✨. I am also passionated by solo piano classical music 🎹, sports (squash ⚫️💨, running 🏃‍♂️ & gym 🏋️‍♂️) and cooking 👨‍🍳.
+I come from France 🇫🇷, living in Auckland 🇳🇿. I really like Machine Learning and I am getting more and more interested in AI ✨. I am also passionated by solo piano classical music 🎹, sports (squash ⚫️💨, running 🏃‍♂️ & gym 🏋️‍♂️) and cooking 👨‍🍳.
 
 ## 🔭 I’m currently working on
+- [Tutorial on how computer science, data science and statistics are connected](github.com/vicmon810/why_is_it_connected)
+
 ## 🌱 I’m currently learning
+- Microsoft Azure ☁️
+- Power BI 📊
+- AI Agents 🤖
+- Mandarin 🇨🇳
 
 <!--
 **Rakmanimal-theAI/Rakmanimal-theAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
