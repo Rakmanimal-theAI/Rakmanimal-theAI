@@ -10,6 +10,7 @@ I come from France 🇫🇷, living in Auckland 🇳🇿. I really like Machine 
 
 ## 🔭 I’m currently working on
 - [Tutorial on how computer science, data science and statistics are connected](github.com/vicmon810/why_is_it_connected)
+- [predicting unemployment rates in New Zealand with Power BI](https://github.com/Rakmanimal-theAI/unemployment_powerbi)
 
 ## 🌱 I’m currently learning
 - Microsoft Azure ☁️
