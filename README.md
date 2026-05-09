@@ -14,8 +14,7 @@ I come from France 🇫🇷, living in Auckland 🇳🇿. I really like Machine 
 
 ## 🌱 I’m currently learning
 - Microsoft Azure ☁️
-- Power BI 📊
-- Snowflake ❄️
+- SQL ⛁
 - AI Agents 🤖
 - Mandarin 🇨🇳
 
