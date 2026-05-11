@@ -13,9 +13,8 @@ I come from France 🇫🇷, living in Auckland 🇳🇿. I really like Machine 
 - Microsoft Azure Data Fundamentals Certification (DP-900)
 
 ## 🌱 I’m currently learning
-- Microsoft Azure ☁️
-- SQL ⛁
-- AI Agents 🤖
+- SQL / DataLemur ⛁
+- Kafka 🕸
 - Mandarin 🇨🇳
 
 <!--
