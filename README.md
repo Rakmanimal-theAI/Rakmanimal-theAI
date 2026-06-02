@@ -9,12 +9,12 @@
 I come from France 🇫🇷, living in Auckland 🇳🇿. I really like Machine Learning and I am getting more and more interested in AI ✨. I am also passionated by solo piano classical music 🎹, sports (squash ⚫️💨, running 🏃‍♂️ & gym 🏋️‍♂️) and cooking 👨‍🍳.
 
 ## 🔭 I’m currently working on
-- [Tutorial on how computer science, data science and statistics are connected](github.com/vicmon810/why_is_it_connected)
-- Microsoft Azure Data Fundamentals Certification (DP-900)
+- DevOps / Cloud
+- Data Analysis
 
 ## 🌱 I’m currently learning
-- SQL / DataLemur ⛁
-- Kafka 🕸
+- SQL ⛁
+- AWS ☁️
 - Mandarin 🇨🇳
 
 <!--
