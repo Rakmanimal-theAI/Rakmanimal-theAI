@@ -9,8 +9,8 @@
 I come from France 🇫🇷, living in Auckland 🇳🇿. I really like Machine Learning and I am getting more and more interested in AI ✨. I am also passionated by solo piano classical music 🎹, sports (squash ⚫️💨, running 🏃‍♂️ & gym 🏋️‍♂️) and cooking 👨‍🍳.
 
 ## 🔭 I’m currently working on
-- DevOps / Cloud
-- Data Analysis
+- DevOps / Cloud (learning AWS services)
+- Data Analysis projects
 
 ## 🌱 I’m currently learning
 - SQL ⛁
